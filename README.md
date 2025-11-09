@@ -1,4 +1,4 @@
-# tic-tac-toe-python
+
 A simple **Tic Tac Toe** game built in **Python**.  
 This project allows two players to play directly from the **terminal**.
 
